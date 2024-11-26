@@ -1,0 +1,1 @@
+# Crea una función que determine si un número es primo sin usar paquetes adicionales.
