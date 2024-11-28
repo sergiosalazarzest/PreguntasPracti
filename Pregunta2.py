@@ -8,3 +8,9 @@ x = random.sample(range(1, 1010), 50)
 
 # Comienza tu respuesta aca:
 
+def numero_grande(numero):
+    numero.sort()
+    numero_primero=numero[0]
+    return numero_primero
+
+
