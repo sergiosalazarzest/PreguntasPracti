@@ -9,4 +9,5 @@ data = {
 }
 df = pd.DataFrame(data)
 
-# Escribe una función llamada promedio_mayores_20 que calcule el promedio de las calificaciones de los estudiantes mayores de 20 años
+# Escribe una función llamada promedio_mayores_20 que calcule
+# el promedio de las calificaciones de los estudiantes mayores de 20 años
